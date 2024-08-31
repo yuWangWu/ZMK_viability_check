@@ -1,0 +1,6 @@
+if SHIELD_CHECK
+
+config ZMK_KEYBOARD_NAME
+    default "YuuTestBoard"
+
+endif
