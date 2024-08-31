@@ -19,5 +19,5 @@
 ---
 
 include: 
-  - board: blackpill
+  - board: blackpill_f411ce
     shield: check
